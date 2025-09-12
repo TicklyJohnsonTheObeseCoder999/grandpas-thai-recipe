@@ -1,0 +1,123 @@
+.content {
+  margin-right: 250px;
+}
+
+.intro {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.picture{
+  width: 1440px;
+  height: auto;
+  margin-left: 100px;
+}
+.topic {
+  border-radius: 8px;
+  color: white;
+  font-size: 70px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 350px;
+  background-color: red;
+  border: 3px solid red;
+}
+
+.intro {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro a {
+  margin-bottom: 20px;
+}
+
+.logo{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.logop {
+  width: 200px;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.navbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1rem;
+  width: 220px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.nav-link {
+  font-family: sans-serif;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;   
+  gap: 40px;           
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.nav-link a {
+  font-family: sans-serif;
+  border-radius: 8px;
+  color: black;
+  background-color: white;
+  border: 2px solid gray;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: block;
+}
+
+.nav-link a:hover {
+  border-radius: 8px;
+  background-color: gray;
+  color: white;
+}
+
+.link {
+  list-style: none;
+  padding-left:93%;
+}
+
+.picture1{
+  height: 300px;
+  width: auto;
+  justify-content: center;
+}
+
+.sub {
+  border-left: 5px solid red;
+  padding-left: 5px;
+}
+
+.intro {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 100px;
+}
+
+.intro a {
+  margin-bottom: 20px;
+}
+
+.ingredients {
+  font-size: 25px;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
+
+.method {
+  font-size: 25px;
+  font-family: sans-serif;
+  list-style: decimal;
+  margin-bottom: 300px;
+}
